@@ -1,4 +1,6 @@
-# 😎 Gusta024092 
+<h1 align='center'>
+  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" /> Gusta024092 
+</h1>
 
 ** Java Back-End Developer API **
 
@@ -6,7 +8,7 @@ English: I'm a Java Developer who does small projects and posts periodically her
 
 Português Brasileiro: Eu sou um Desenvolvedor Java que faz pequenos projetos e posta periodicamente aqui no GitHub. Focado em aprender mais e utilizar para desenvolver habilidades que agregam na minha formação e desempenho na programação. Ainda não tenho planos definidos no momento para gravar vídeos no Youtube, porém já tenho habilidades para criação de conteúdo digital para Internet, seja se for necessário para casos posteriores de usar essa plataforma para envio.
 
-![image]({"https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"})
+<img src="" />
 
 <!--
 **Gusta024092/Gusta024092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
