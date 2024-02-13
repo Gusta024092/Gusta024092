@@ -6,8 +6,8 @@
   <h4>Java Back-End Developer API </h4>
   <hr>
   
-  <div style="text-align: justify; font-family: Arial;" >
-    <p justify>
+  <div align="justify" style="font-family: Arial;" >
+    <p>
       English: I'm a Java Developer who does small projects and posts periodically here on GitHub. Focused on learning more and using it to develop skills that add to my training and performance in programming. I don't have any plans at the moment to record videos on YouTube, but I already have the skills to create digital content for the Internet, whether it's necessary to use this platform later on.
     </p>
     <br>
