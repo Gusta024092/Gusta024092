@@ -1,4 +1,12 @@
-### Hi there 👋
+# 😎 Gusta024092 
+
+** Java Back-End Developer API **
+
+English: I'm a Java Developer who does small projects and posts periodically here on GitHub. Focused on learning more and using it to develop skills that add to my training and performance in programming. I don't have any plans at the moment to record videos on YouTube, but I already have the skills to create digital content for the Internet, whether it's necessary to use this platform later on.
+
+Português Brasileiro: Eu sou um Desenvolvedor Java que faz pequenos projetos e posta periodicamente aqui no GitHub. Focado em aprender mais e utilizar para desenvolver habilidades que agregam na minha formação e desempenho na programação. Ainda não tenho planos definidos no momento para gravar vídeos no Youtube, porém já tenho habilidades para criação de conteúdo digital para Internet, seja se for necessário para casos posteriores de usar essa plataforma para envio.
+
+![image]({https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white})
 
 <!--
 **Gusta024092/Gusta024092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
