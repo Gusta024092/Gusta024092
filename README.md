@@ -1,6 +1,6 @@
   
-  <h1 style="text-align: center; font-size: 42px">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="35" height="35" /> Gusta024092 
+  <h1 style="text-align: center; font-size: 82pt">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="70" height="70" /> Gusta024092 
   </h1>
 
   <h4 style="font-size: 22px">Java Back-End Developer API </h4>
@@ -18,7 +18,7 @@
   <br>
   <hr>
   <div>
-    <h4 style="font-size: 34px">Hard Skills </h4>
+    <h4 style="font-size: 52px">Hard Skills </h4>
     <br>
     <h5 style="font-size: 28px">Frameworks </h5>
     <img href="https://spring.io/tools" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
