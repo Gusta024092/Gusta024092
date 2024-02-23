@@ -1,11 +1,6 @@
-  
-  <h1 style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="70" height="70" /> Gusta024092 
-  </h1>
+  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="70" height="70" /> Gusta024092 
 
-  <div>
-    <h2>Java Back-End Developer API</h2>
-  </div>
+  ## Java Back-End Developer API
   <br>
   
   <div align="justify" style="font-family: Arial;" >
@@ -20,13 +15,11 @@
   <br>
   <hr>
   <div>
-    <h4 style="font-size: 52px">Hard Skills </h4>
-    <br>
-    <h5 style="font-size: 28px">Frameworks </h5>
+    <h3>Hard Skills </h3>
+    <h5>Frameworks </h5>
     <img href="https://spring.io/tools" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
     <img href="https://spring.io/tools" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot Framework" />
   </div>
-  <hr>
   <div>
     <h5 style="font-size: 28px">Programming Languages</h5>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
