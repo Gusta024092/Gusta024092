@@ -3,8 +3,10 @@
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="70" height="70" /> Gusta024092 
   </h1>
 
-  <h4 style="font-size: 22px">Java Back-End Developer API </h4>
-  <hr>
+  <div style="font-size: 62pt;">
+    <h4>Java Back-End Developer API </h4>
+  </div>
+  <br>
   
   <div align="justify" style="font-family: Arial;" >
     <p>
