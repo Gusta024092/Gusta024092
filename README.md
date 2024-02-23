@@ -1,5 +1,5 @@
   
-  <h1 style="text-align: center; font-size: 82pt">
+  <h1 style="text-align: center;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="70" height="70" /> Gusta024092 
   </h1>
 
