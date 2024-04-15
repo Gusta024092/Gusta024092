@@ -5,11 +5,7 @@
   
   <div align="justify" style="font-family: Arial;" >
     <p>
-      <strong>English</strong>: I am a Java Developer focused on this language, although there is experience and familiarity with other programming languages, such as C#. I'm doing small projects that I post periodically here on GitHub, in which my focus is on learning more to develop my skills that add to my training and performance in programming. I don't have any plans at the moment to record videos on YouTube, but I already have the skills to create digital content for the Internet, if necessary for later use of this platform.
-    </p>
-    <br>
-    <p>
-      <strong>Português Brasileiro</strong>: Eu sou um Desenvolvedor Java com foco nesta linguagem, embora tenho experiência e familiaridade com outras linguagens de programação, a exemplo o C#. Faço pequenos projetos em que posto periodicamente aqui no GitHub, na qual meu foco é em aprender mais para desenvolver minhas habilidades que agregam na minha formação e desempenho na programação. Ainda não tenho planos definidos no momento para gravar vídeos no Youtube, porém já tenho habilidades para criação de conteúdo digital para Internet, seja se for necessário para casos posteriores de usar essa plataforma para envio.
+      Formado em Técnico de Informática, possuo habilidades em diversos ambientes e áreas da Informática e TI. Atualmente, estou focado na carreira de QA, mas também continuo desenvolvendo projetos de construção de APIs no modelo Rest. Estou empenhado no meu desenvolvimento pessoal, tanto nas minhas habilidades técnicas quanto nas habilidades de comunicação e trabalho em equipe. Nos meus estudos de QA, tenho me aprofundado em testes automatizados, utilizando principalmente o framework Robot Framework para criar scripts em ambientes de teste.
     </p>
   </div>
   <br>
